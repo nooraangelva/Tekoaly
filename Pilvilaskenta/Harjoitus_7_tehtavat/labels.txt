@@ -1,0 +1,25 @@
+item {
+  name: "Baked goods"
+  id: 1
+  display_name: "baked goods"
+}
+item {
+  name: "Salad"
+  id: 2
+  display_name: "salad"
+}
+item {
+  name: "Cheese"
+  id: 3
+  display_name: "cheese"
+}
+item {
+  name: "Seafood"
+  id: 4
+  display_name: "seafood"
+}
+item {
+  name: "Tomato"
+  id: 5
+  display_name: "tomato"
+}

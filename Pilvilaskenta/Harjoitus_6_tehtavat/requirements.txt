@@ -1,0 +1,7 @@
+google-cloud-storage==1.43.0
+numpy==1.21.4
+Pillow==8.4.0
+requests==2.26.0
+firebase-admin==5.1.0
+google-cloud-firestore==2.3.4
+grpcio==1.38.0

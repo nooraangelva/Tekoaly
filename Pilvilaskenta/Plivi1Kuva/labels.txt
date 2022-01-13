@@ -1,0 +1,3 @@
+0 Pencil
+1 Phone
+2 a glove
